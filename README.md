@@ -5,4 +5,4 @@
 - 💻 Interested in IT Support, Networking, and Cybersecurity
 - 🌱 Learning Windows Administration and Troubleshooting
 - 🛠️ Building hands-on IT support projects
-- 🎯 Aspiring IT Support Technician
+- 🎯 Aspiring IT Support Technician | SOC Analyst
